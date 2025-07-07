@@ -1,0 +1,5 @@
+Hello,
+
+My name is John Doe. My email is john.doe@example.com and my phone number is (123) 456-7890.
+My SSN is 123-45-6789, and I was born on July 4, 1990.
+You can reach me at jane_doe123@mail.com too.
